@@ -1,5 +1,5 @@
 ﻿MyApp
-
+1.0.0.0
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET10_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_O
 C:\Users\asus\source\repos\Warehouse-system\MyApp\App.xaml
 11407045341
 
-4626271550
-2061601768811
+6-359132672
+242-1166453421
 MainWindow.xaml;
 
-False
+True
 
